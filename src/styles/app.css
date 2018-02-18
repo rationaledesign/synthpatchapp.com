@@ -29,6 +29,7 @@
   --white: #fff;
 
   --unit: 0.75rem;
+  --unit-half: calc(0.5 * var(--unit));
   --unit-1: var(--unit);
   --unit-2: calc(2 * var(--unit));
   --unit-3: calc(3 * var(--unit));
@@ -137,6 +138,10 @@ main {
 }
 .inlineBlock {
   display: inline-block;
+}
+
+.marginBottom-half {
+  margin-bottom: var(--unit-half);
 }
 .marginBottom-1 {
   margin-bottom: var(--unit-1);
