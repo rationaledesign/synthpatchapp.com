@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="./assets/styles/app.css">
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <style type="text/css">
+      
+  </style>
+  <script type="text/javascript">
+  var MTIProjectId='5c91decd-875a-41aa-b8b9-962caac50c17';
+  (function() {
+          var mtiTracking = document.createElement('script');
+          mtiTracking.type='text/javascript';
+          mtiTracking.async='true';
+          mtiTracking.src='assets/scripts/mtiFontTrackingCode.js';
+          (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+    })();
+  </script>
+</head>
+<body>
+  <div class="container">
+    <main class="">
+      <div>
+        <img src="./assets/images/app-icon.svg" alt="SynthPatch Icon">
+        <h2 class="p">SynthPatch</h2>
+      </div>
+      <div>
+        <h1 class="font-primary--light marginBottom-1">Old Synths, new possibilities</h1>
+        <p class="marginBottom-2">Quickly input your favorite non-preset <br>synth sounds to save for later.</p>
+        <div class="badge">
+          <a class="" href="#">
+            <img class="block" src="./assets/images/app-store-badge.svg" alt="App Store Badge">
+          </a>
+        </div>
+        <img class="block" src="./assets/images/phone-ui.svg" alt="Synthpatch iphone demo">
+      </div>
+      <div class="synths">
+        <img class="synth-1"src="./assets/images/pro-one.svg" alt="Sequential Circuits Pro-One Synth Outline">
+        <img class="synth-2"src="./assets/images/sh-101.svg" alt="Roland SH-101 Synth Outline">
+        <img class="synth-3"src="./assets/images/minimoog.svg" alt="Moog Minimoog Synth Outline">
+      </div>
+    </main>
+  </div>
+</body>
+<script>
+  (function toggleGrid() {
+    let map = {};
+    function onkeypress(e) {
+      map[e.keyCode] = true;
+
+      if (map[16] && map[71]) {
+        document.getElementsByTagName('HTML')[0].classList.toggle('gridShown');
+      }
+    }
+
+    window.addEventListener('keydown', (e) => {
+      onkeypress(e);
+    });
+    window.addEventListener('keyup', () => {
+      map = {};
+    });
+  }());
+</script>
+</html>

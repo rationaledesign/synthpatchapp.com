@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="217px" height="473px" viewBox="0 0 217 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>phone ui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="195" height="351"></rect>
+        <rect id="path-3" x="0" y="0" width="31.2" height="27.04"></rect>
+        <rect id="path-5" x="0" y="0" width="31.2" height="20.28"></rect>
+        <rect id="path-7" x="0" y="0" width="49.92" height="27.04"></rect>
+        <rect id="path-9" x="0" y="0" width="49.92" height="20.28"></rect>
+        <rect id="path-11" x="128.96" y="262.08" width="58.24" height="31.2"></rect>
+        <rect id="path-12" x="8.32" y="318.24" width="58.24" height="31.2"></rect>
+        <rect id="path-13" x="8.32" y="149.76" width="58.24" height="31.2"></rect>
+        <rect id="path-14" x="8.32" y="205.92" width="58.24" height="31.2"></rect>
+        <rect id="path-15" x="8.32" y="262.08" width="58.24" height="31.2"></rect>
+        <rect id="path-16" x="68.64" y="93.6" width="58.24" height="31.2"></rect>
+        <rect id="path-17" x="68.64" y="318.24" width="58.24" height="31.2"></rect>
+        <rect id="path-18" x="128.96" y="205.92" width="58.24" height="31.2"></rect>
+        <rect id="path-19" x="68.64" y="149.76" width="58.24" height="31.2"></rect>
+        <rect id="path-20" x="0" y="0" width="33.28" height="27.04"></rect>
+        <rect id="path-22" x="0" y="0" width="24.96" height="27.04"></rect>
+        <rect id="path-24" x="0" y="0" width="39.52" height="27.04"></rect>
+        <rect id="path-26" x="0" y="0" width="24.96" height="27.04"></rect>
+        <rect id="path-28" x="0" y="0" width="24.96" height="27.04"></rect>
+        <rect id="path-30" x="0" y="0" width="33.28" height="20.28"></rect>
+        <rect id="path-32" x="0" y="0" width="24.96" height="20.28"></rect>
+        <rect id="path-34" x="0" y="0" width="39.52" height="20.28"></rect>
+        <rect id="path-36" x="0" y="0" width="24.96" height="20.28"></rect>
+        <rect id="path-38" x="0" y="0" width="24.96" height="20.28"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone-ui">
+            <g id="Group-5">
+                <g id="Group-2">
+                    <path d="M187.580073,0 C203.802201,0 217,13.4333039 217,30.2097816 L217,442.358479 C217,459.134957 203.802201,473 187.580073,473 L29.4199272,473 C13.1977988,473 0,459.134957 0,442.358479 L0,30.2097816 C0,13.4333039 13.1977988,0 29.4199272,0 L187.580073,0 Z" id="Fill-1" fill="#000000"></path>
+                    <g id="iPhone-7-(375x667)" transform="translate(11.000000, 52.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#141414" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group" transform="translate(11.000000, 53.000000)">
+                        <rect id="Rectangle-3" fill="#141414" x="0" y="0" width="195" height="349.44"></rect>
+                        <text id="Mod-Mix" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="131.04" y="61.52">Mod Mix</tspan>
+                        </text>
+                        <text id="0-copy-31" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#FF4E22">
+                            <tspan x="130.52" y="78.32">0</tspan>
+                        </text>
+                        <text id="Tune-Copy-92" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="131.04" y="61.52">Tune</tspan>
+                        </text>
+                        <g id="Tune-Copy-95" transform="translate(128.960000, 52.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-3"></use>
+                            <text id="Mod-Mix" mask="url(#mask-4)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Mod Mix</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy-59" transform="translate(128.960000, 62.920000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-5"></use>
+                            <text id="6.5" mask="url(#mask-6)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="1.56" y="15.4">6.5</tspan>
+                            </text>
+                        </g>
+                        <text id="0-copy-39" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#FF4E22">
+                            <tspan x="70.2" y="78.32">0</tspan>
+                        </text>
+                        <text id="Tune-Copy-109" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="70.72" y="61.52">Tune</tspan>
+                        </text>
+                        <g id="Tune-Copy-112" transform="translate(68.640000, 52.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-7"></use>
+                            <text id="Glide" mask="url(#mask-8)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Glide</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy-67" transform="translate(68.640000, 62.920000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-9"></use>
+                            <text id="9.5" mask="url(#mask-10)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="1.56" y="15.4">9.5</tspan>
+                            </text>
+                        </g>
+                        <text id="Minimoog-patch" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#FFFFFF">
+                            <tspan x="8.32" y="15.24">Minimoog patch</tspan>
+                        </text>
+                        <g id="Rectangle-Copy-25">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-11"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="129.22" y="262.34" width="57.72" height="30.68"></rect>
+                        </g>
+                        <text id="Controllers-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="8.32" y="46.44">Controllers</tspan>
+                        </text>
+                        <text id="Mixer-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#0090EB">
+                            <tspan x="8.32" y="312.68">Mixer</tspan>
+                        </text>
+                        <text id="Osc-1-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#FEC300">
+                            <tspan x="8.32" y="144.2">Osc 1</tspan>
+                        </text>
+                        <text id="Osc-2-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#FEC300">
+                            <tspan x="8.32" y="200.36">Osc 2</tspan>
+                        </text>
+                        <text id="Osc-3-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="9.36" font-weight="bold" letter-spacing="-0.26" fill="#FEC300">
+                            <tspan x="8.32" y="256.52">Osc 3</tspan>
+                        </text>
+                        <rect id="Rectangle-Copy" stroke="#FF4E22" stroke-width="0.52" x="8.58" y="52.26" width="57.72" height="30.68"></rect>
+                        <rect id="Rectangle-Copy-30" stroke="#FF4E22" stroke-width="0.52" x="68.9" y="52.26" width="57.72" height="30.68"></rect>
+                        <rect id="Rectangle-Copy-31" stroke="#FF4E22" stroke-width="0.52" x="129.22" y="52.26" width="57.72" height="30.68"></rect>
+                        <g id="Rectangle-Copy-15">
+                            <use fill="#0090EB" fill-rule="evenodd" xlink:href="#path-12"></use>
+                            <rect stroke="#0090EB" stroke-width="0.52" x="8.58" y="318.5" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="Rectangle-Copy-36">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="8.58" y="150.02" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="Rectangle-Copy-37">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-14"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="8.58" y="206.18" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="Rectangle-Copy-38">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-15"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="8.58" y="262.34" width="57.72" height="30.68"></rect>
+                        </g>
+                        <rect id="Rectangle-Copy-41" stroke="#FF4E22" stroke-width="0.52" x="8.58" y="93.86" width="57.72" height="30.68"></rect>
+                        <rect id="Rectangle-Copy-42" stroke="#FF4E22" stroke-width="0.52" x="129.22" y="93.86" width="57.72" height="30.68"></rect>
+                        <g id="Rectangle-Copy-43">
+                            <use fill="#FF4E22" fill-rule="evenodd" xlink:href="#path-16"></use>
+                            <rect stroke="#FF4E22" stroke-width="0.52" x="68.9" y="93.86" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="Rectangle-Copy-64">
+                            <use fill="#0090EB" fill-rule="evenodd" xlink:href="#path-17"></use>
+                            <rect stroke="#0090EB" stroke-width="0.52" x="68.9" y="318.5" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="1L_waveform_04-Copy" transform="translate(139.360000, 264.160000)" fill-rule="nonzero" fill="#000000">
+                            <path d="M3.25143117,24.96 L16.0950919,7.79984852 L16.0950919,16.4072963 L23.5769161,24.96 L27.04,24.96 L18.6815234,15.4051679 L18.6815234,0 L1.02251541e-13,24.96 L3.25143117,24.96 Z" id="Combined-Shape"></path>
+                        </g>
+                        <rect id="Rectangle-Copy-72" stroke="#0090EB" stroke-width="0.52" x="129.22" y="318.5" width="57.72" height="30.68"></rect>
+                        <rect id="Rectangle-Copy-76" stroke="#FEC300" stroke-width="0.52" x="68.9" y="206.18" width="57.72" height="30.68"></rect>
+                        <rect id="Rectangle-Copy-77" stroke="#FEC300" stroke-width="0.52" x="68.9" y="262.34" width="57.72" height="30.68"></rect>
+                        <g id="Rectangle-Copy-78">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-18"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="129.22" y="206.18" width="57.72" height="30.68"></rect>
+                        </g>
+                        <g id="Rectangle-Copy-79">
+                            <use fill="#FEC300" fill-rule="evenodd" xlink:href="#path-19"></use>
+                            <rect stroke="#FEC300" stroke-width="0.52" x="68.9" y="150.02" width="57.72" height="30.68"></rect>
+                        </g>
+                        <text id="0-copy-5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#FF4E22">
+                            <tspan x="9.88" y="78.32">0</tspan>
+                        </text>
+                        <text id="Tune-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="10.4" y="61.52">Tune</tspan>
+                        </text>
+                        <text id="Freq-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FEC300">
+                            <tspan x="70.72" y="215.44">Freq</tspan>
+                        </text>
+                        <text id="Freq-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FEC300">
+                            <tspan x="70.72" y="271.6">Freq</tspan>
+                        </text>
+                        <g id="Tune-Copy-2" transform="translate(8.320000, 52.000000)">
+                            <mask id="mask-21" fill="white">
+                                <use xlink:href="#path-20"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-20"></use>
+                            <text id="Tune" mask="url(#mask-21)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Tune</tspan>
+                            </text>
+                        </g>
+                        <g id="Tune-Copy-12" transform="translate(8.320000, 318.240000)">
+                            <mask id="mask-23" fill="white">
+                                <use xlink:href="#path-22"></use>
+                            </mask>
+                            <use id="Mask" fill="#0090EB" xlink:href="#path-22"></use>
+                            <text id="Vol-1" mask="url(#mask-23)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Vol 1</tspan>
+                            </text>
+                        </g>
+                        <text id="Range-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="10.4" y="159.28">Range</tspan>
+                        </text>
+                        <text id="Range-Copy-5" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="10.4" y="215.44">Range</tspan>
+                        </text>
+                        <text id="Range-Copy-6" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="10.4" y="271.6">Range</tspan>
+                        </text>
+                        <text id="Decay-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#FF4E22">
+                            <tspan x="10.4" y="103.12">Decay</tspan>
+                        </text>
+                        <text id="Glide-Copy-2" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="70.72" y="103.12">Glide</tspan>
+                        </text>
+                        <text id="Vol-1-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="70.72" y="327.76">Vol 1</tspan>
+                        </text>
+                        <g id="Tune-Copy-17" transform="translate(131.040000, 94.120000)" font-size="9.36" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="-0.26" fill="#FF4E22" font-weight="normal">
+                            <text id="Mod">
+                                <tspan x="0" y="9">Mod</tspan>
+                            </text>
+                        </g>
+                        <g id="Tune-Copy-20" transform="translate(128.960000, 318.240000)">
+                            <mask id="mask-25" fill="white">
+                                <use xlink:href="#path-24"></use>
+                            </mask>
+                            <use id="Mask" fill="#0090EB" xlink:href="#path-24"></use>
+                            <text id="Vol-2" mask="url(#mask-25)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Vol 2</tspan>
+                            </text>
+                        </g>
+                        <g id="Tune-Copy-27" transform="translate(68.640000, 205.920000)">
+                            <mask id="mask-27" fill="white">
+                                <use xlink:href="#path-26"></use>
+                            </mask>
+                            <use id="Mask" fill="#FEC300" xlink:href="#path-26"></use>
+                            <text id="Freq." mask="url(#mask-27)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Freq.</tspan>
+                            </text>
+                        </g>
+                        <g id="Tune-Copy-28" transform="translate(68.640000, 262.080000)">
+                            <mask id="mask-29" fill="white">
+                                <use xlink:href="#path-28"></use>
+                            </mask>
+                            <use id="Mask" fill="#FEC300" xlink:href="#path-28"></use>
+                            <text id="Freq." mask="url(#mask-29)" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                                <tspan x="2.08" y="9.52">Freq.</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy" transform="translate(8.320000, 62.920000)">
+                            <mask id="mask-31" fill="white">
+                                <use xlink:href="#path-30"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF4E22" xlink:href="#path-30"></use>
+                            <text id="0.5" mask="url(#mask-31)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="1.56" y="15.4">0.5</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy-14" transform="translate(8.320000, 329.160000)">
+                            <mask id="mask-33" fill="white">
+                                <use xlink:href="#path-32"></use>
+                            </mask>
+                            <use id="Mask" fill="#0090EB" xlink:href="#path-32"></use>
+                            <text id="10" mask="url(#mask-33)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="1.56" y="15.4">10</tspan>
+                            </text>
+                        </g>
+                        <text id="32′-copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                            <tspan x="10.4" y="176.08">32′</tspan>
+                        </text>
+                        <text id="16′" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                            <tspan x="10.4" y="232.24">16′</tspan>
+                        </text>
+                        <text id="16′-copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                            <tspan x="10.4" y="288.4">16′</tspan>
+                        </text>
+                        <text id="Off-Copy-4" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#FF4E22">
+                            <tspan x="10.4" y="119.92">Off</tspan>
+                        </text>
+                        <text id="Min-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#FF4E22">
+                            <tspan x="131.04" y="119.92">Min</tspan>
+                        </text>
+                        <text id="On-Copy-3" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                            <tspan x="70.72" y="119.92">On</tspan>
+                        </text>
+                        <text id="On-Copy-5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                            <tspan x="70.72" y="344.56">On</tspan>
+                        </text>
+                        <g id="-0.5-copy-19" transform="translate(128.960000, 329.160000)">
+                            <mask id="mask-35" fill="white">
+                                <use xlink:href="#path-34"></use>
+                            </mask>
+                            <use id="Mask" fill="#0090EB" xlink:href="#path-34"></use>
+                            <text id="8" mask="url(#mask-35)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="2.08" y="15.4">8</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy-10" transform="translate(68.640000, 216.840000)">
+                            <mask id="mask-37" fill="white">
+                                <use xlink:href="#path-36"></use>
+                            </mask>
+                            <use id="Mask" fill="#FEC300" xlink:href="#path-36"></use>
+                            <text id="3" mask="url(#mask-37)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="2.08" y="15.4">3</tspan>
+                            </text>
+                        </g>
+                        <g id="-0.5-copy-22" transform="translate(68.640000, 273.000000)">
+                            <mask id="mask-39" fill="white">
+                                <use xlink:href="#path-38"></use>
+                            </mask>
+                            <use id="Mask" fill="#FEC300" xlink:href="#path-38"></use>
+                            <text id="3" mask="url(#mask-39)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18.72" font-weight="bold" letter-spacing="-0.78" fill="#000000">
+                                <tspan x="2.08" y="15.4">3</tspan>
+                            </text>
+                        </g>
+                        <g id="2L_waveform_01-Copy" transform="translate(79.040000, 151.840000)" fill="#000000">
+                            <path d="M6.76,2.6 L6.76,24.96 L8.58,24.96 L27.04,24.96 L27.04,22.36 L9.36,22.36 L9.36,1.3 L9.36,-4.4408921e-16 L1.3,-8.26499363e-16 L0,0 L0,24.96 L2.6,24.96 L2.6,2.6 L6.76,2.6 Z" id="Combined-Shape"></path>
+                        </g>
+                        <g id="1L_waveform_02-Copy" transform="translate(139.360000, 208.000000)" fill-rule="nonzero" fill="#000000">
+                            <polygon id="Path-7" points="24.4708377 24.96 27.04 24.96 27.04 0 0 24.96 3.77943983 24.96 24.4708377 5.86168319"></polygon>
+                        </g>
+                        <text id="3-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="131.04" y="215.44">3</tspan>
+                        </text>
+                        <text id="6" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="70.72" y="159.28">6</tspan>
+                        </text>
+                        <text id="2-copy" font-family="HelveticaNeue, Helvetica Neue" font-size="9.36" font-weight="normal" letter-spacing="-0.26" fill="#000000">
+                            <tspan x="131.04" y="271.6">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <path d="M109.000363,418 C99.0751196,418 91,426.074393 91,435.999637 C91,445.92488 99.0751196,454 109.000363,454 C118.925607,454 127,445.92488 127,435.999637 C127,426.074393 118.925607,418 109.000363,418 Z" id="Stroke-5" stroke="#333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>
