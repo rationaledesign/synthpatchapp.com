@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,44 +8,68 @@
   <title>SynthPatch App</title>
   <meta name="description" content="Old Synths, new possibilities. Quickly input your favorite non-preset synth sounds to save for later.">
   <meta property="og:title" content="SynthPatch App" />
-  <meta property="og:description" content="Old Synths, new possibilities. Quickly input your favorite non-preset synth sounds to save for later." />
+  <meta property="og:description" content="Old Synths, new possibilities. Quickly input your favorite non-preset synth sounds to save for later."
+  />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://synthpatchapp.com" />
-  <meta property="og:image" content="./assets/images/app-icon.svg" />
+  <meta property="og:image" content="./assets/images/synthpatch_og_preview" />
   <link rel="stylesheet" href="./assets/styles/app.css">
   <link rel="icon" type="image/png" href="./favicon.png">
   <script type="text/javascript">
-  var MTIProjectId='5c91decd-875a-41aa-b8b9-962caac50c17';
-  (function() {
-          var mtiTracking = document.createElement('script');
-          mtiTracking.type='text/javascript';
-          mtiTracking.async='true';
-          mtiTracking.src='assets/scripts/mtiFontTrackingCode.js';
-          (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+    var MTIProjectId = '5c91decd-875a-41aa-b8b9-962caac50c17';
+    (function () {
+      var mtiTracking = document.createElement('script');
+      mtiTracking.type = 'text/javascript';
+      mtiTracking.async = 'true';
+      mtiTracking.src = 'assets/scripts/mtiFontTrackingCode.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
     })();
   </script>
 </head>
+
 <body>
   <div class="container">
-    <main class="">
-      <div>
-        <img class="block marginBottom-half" src="./assets/images/app-icon.svg" alt="SynthPatch Icon">
-        <h2 class="p">SynthPatch</h2>
+    <main id="main">
+      <div class="logo">
+        <img class="app-icon block marginBottom-half" src="./assets/images/app-icon.svg" alt="SynthPatch Icon">
+        <h2 class="logo-type p">SynthPatch</h2>
       </div>
-      <div>
-        <h1 class="font-primary--light marginBottom-1">Old Synths, new possibilities</h1>
-        <p class="marginBottom-2">Quickly input your favorite non-preset <br>synth sounds to save for later.</p>
-        <div class="badge">
-          <a class="" href="#">
-            <img class="block" src="./assets/images/app-store-badge.svg" alt="App Store Badge">
-          </a>
+      <div class="content flex-1">
+        <div class="media-wrapper">
+          <div class="media">
+            <div class="synths">
+              <div class="synth">
+                <img class="synth-1" src="./assets/images/pro-one.svg" alt="Sequential Circuits Pro-One Synth Outline">
+              </div>
+              <div class="synth">
+                <img class="synth-2" src="./assets/images/sh-101.svg" alt="Roland SH-101 Synth Outline">
+              </div>
+              <div class="synth">
+                <img class="synth-3" src="./assets/images/minimoog.svg" alt="Moog Minimoog Synth Outline">
+              </div>
+            </div>
+            <div class="phone-wrapper">
+              <img class="phone" src="./assets/images/phone-ui.svg" alt="Synthpatch iphone demo">
+              <!-- <img class="phone" src="http://fillmurray.com/600/600" alt="Synthpatch iphone demo"> -->
+            </div>
+          </div>
         </div>
-        <img class="block" src="./assets/images/phone-ui.svg" alt="Synthpatch iphone demo">
-      </div>
-      <div class="synths">
-        <img class="synth-1"src="./assets/images/pro-one.svg" alt="Sequential Circuits Pro-One Synth Outline">
-        <img class="synth-2"src="./assets/images/sh-101.svg" alt="Roland SH-101 Synth Outline">
-        <img class="synth-3"src="./assets/images/minimoog.svg" alt="Moog Minimoog Synth Outline">
+        <div class="copy">
+          <h1 class="font-primary--light marginBottom-1 white tagline">Old synths,
+            <span>new possibilities</span>
+          </h1>
+          <p class="marginBottom-2">Quickly input your favorite non-preset
+            <br>synth sounds to save for later.</p>
+          <div class="badge marginBottom-2">
+            <a class="" href="#">
+              <img class="block" src="./assets/images/app-store-badge.svg" alt="App Store Badge">
+            </a>
+          </div>
+        </div>
+        <div class="contact">
+          Contact
+          <a href="mailto:info@synthpatch.com">info@synthpatch.com</a>
+        </div>
       </div>
     </main>
   </div>
@@ -67,5 +92,16 @@
       map = {};
     });
   }());
+
+  // sett for mobile only
+  // const main = document.getElementById('main');
+
+  // const setMainMaxHeight = function () {
+  //   main.style = "max-height: " + window.innerHeight + "px";
+  // }
+  // setMainMaxHeight();
+  // document.addEventListener('resize', setMainMaxHeight)
+
 </script>
+
 </html>
