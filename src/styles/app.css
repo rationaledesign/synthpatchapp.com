@@ -80,24 +80,24 @@ body {
     padding: 0.25em;
   }
 
-  &:before {
-    right: 0;
-    content: "0";
-    background-color: #fff;
+  // &:before {
+  //   right: 0;
+  //   content: "0";
+  //   background-color: #fff;
 
-    @media (--bp-1) {
-      content: "1";
-    }
-    @media (--bp-2) {
-      content: "2";
-    }
-    @media (--bp-3) {
-      content: "3";
-    }
-    @media (--bp-4) {
-      content: "4";
-    }
-  }
+  //   @media (--bp-1) {
+  //     content: "1";
+  //   }
+  //   @media (--bp-2) {
+  //     content: "2";
+  //   }
+  //   @media (--bp-3) {
+  //     content: "3";
+  //   }
+  //   @media (--bp-4) {
+  //     content: "4";
+  //   }
+  // }
 
   &:after {
     right: 24px;
