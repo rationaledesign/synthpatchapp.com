@@ -37,6 +37,11 @@
   --unit-3: calc(3 * var(--unit));
   --unit-4: calc(4 * var(--unit));
   --unit-5: calc(5 * var(--unit));
+  --unit-6: calc(6 * var(--unit));
+  --unit-7: calc(7 * var(--unit));
+  --unit-8: calc(8 * var(--unit));
+  --unit-9: calc(9 * var(--unit));
+  --unit-10: calc(10 * var(--unit));
 
   --gridRow-color: rgba(255, 255, 255, 0.2);
 }
@@ -315,6 +320,32 @@ main {
       object-position: left center;
     }
   }
+}
+
+.privacy-policy {
+  margin-top: var(--unit-4);
+  color: #fff;
+  line-height: 1.35;
+
+  @media (--bp-2) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: var(--unit-10);
+    grid-column-gap: var(--unit-4);
+  }
+
+  & p {
+    margin-bottom: var(--unit-1);
+  }
+  
+  & h1 {
+    margin-bottom: var(--unit-1);
+  }
+
+  & h2 {
+    margin-bottom: var(--unit-1);
+  }
+
 }
 
 /* helpers */
